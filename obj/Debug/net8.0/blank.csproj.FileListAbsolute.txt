@@ -1,0 +1,14 @@
+E:\csharp\consoleProj\blank\obj\Debug\net8.0\blank.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\consoleProj\blank\obj\Debug\net8.0\blank.AssemblyInfoInputs.cache
+E:\csharp\consoleProj\blank\obj\Debug\net8.0\blank.AssemblyInfo.cs
+E:\csharp\consoleProj\blank\obj\Debug\net8.0\blank.csproj.CoreCompileInputs.cache
+E:\csharp\consoleProj\blank\bin\Debug\net8.0\blank.exe
+E:\csharp\consoleProj\blank\bin\Debug\net8.0\blank.deps.json
+E:\csharp\consoleProj\blank\bin\Debug\net8.0\blank.runtimeconfig.json
+E:\csharp\consoleProj\blank\bin\Debug\net8.0\blank.dll
+E:\csharp\consoleProj\blank\bin\Debug\net8.0\blank.pdb
+E:\csharp\consoleProj\blank\obj\Debug\net8.0\blank.dll
+E:\csharp\consoleProj\blank\obj\Debug\net8.0\refint\blank.dll
+E:\csharp\consoleProj\blank\obj\Debug\net8.0\blank.pdb
+E:\csharp\consoleProj\blank\obj\Debug\net8.0\blank.genruntimeconfig.cache
+E:\csharp\consoleProj\blank\obj\Debug\net8.0\ref\blank.dll
